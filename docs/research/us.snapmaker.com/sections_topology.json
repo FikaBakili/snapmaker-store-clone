@@ -1,0 +1,811 @@
+{
+  "sections": [
+    {
+      "index": 0,
+      "tag": "section",
+      "id": "shopify-section-template--19427871850683__slideshow",
+      "classes": "shopify-section.cc-slideshow",
+      "height": 500.015625,
+      "top": 143,
+      "headers": [
+        "h2: \"Snapmaker U1 3D Printer\"",
+        "h2: \"New Filaments. For What’s Next.\"",
+        "h2: \"Snapmaker Artisan 3-in-1 3D Printer\"",
+        "h2: \"Snapmaker Filament Bulk Sale\""
+      ],
+      "buttons": [
+        "A: \"} }\"",
+        "A: \"Order Now — Ships Free\"",
+        "A: \"} <img src=\"//us.snapmaker.com/cdn/shop/\"",
+        "A: \"Buy Now\"",
+        "A: \"} <img src=\"//us.snapmaker.com/cdn/shop/\"",
+        "A: \"Buy Now\"",
+        "A: \"} <img src=\"//us.snapmaker.com/cdn/shop/\"",
+        "A: \"Shop Now\"",
+        "BUTTON: \"Load slide 1 of 4\"",
+        "BUTTON: \"Load slide 2 of 4\""
+      ],
+      "hasCarousel": false,
+      "imagesCount": 8,
+      "videoCount": 0,
+      "imagesSample": [
+        "https://us.snapmaker.com/cdn/shop/files/20260514-143351.webp?v=1778740513&width=980",
+        "https://us.snapmaker.com/cdn/shop/files/Frame_427324372_2.webp?v=1778741067&width=1400",
+        "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201400%202240'%3E%3C/svg%3E",
+        "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%203200%20833'%3E%3C/svg%3E",
+        "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20980%201670'%3E%3C/svg%3E"
+      ],
+      "videosSample": [],
+      "htmlSummary": "<section id=\"shopify-section-template--19427871850683__slideshow\" class=\"shopify-section cc-slideshow\"><link rel=\"stylesheet\" href=\"//us.snapmaker.com/cdn/shop/t/148/assets/slideshow.css?v=171575069373491704361775813737\">\n<link rel=\"stylesheet\" href=\"//us.snapmaker.com/cdn/shop/t/148/assets/text-overlay.css?v=114122849825782127811775813737\"><script src=\"//us.snapmaker.com/cdn/shop/t/148/assets/sli"
+    },
+    {
+      "index": 1,
+      "tag": "section",
+      "id": "shopify-section-template--19427871850683__collection_cards_DcAhKe",
+      "classes": "shopify-section.cc-collection-cards.section",
+      "height": 315.578125,
+      "top": 683.015625,
+      "headers": [],
+      "buttons": [
+        "A: \"3D PrintersEngineered for Every Maker <i\"",
+        "A: \"FilamentsPremium Materials for Perfect P\"",
+        "A: \"AccessoriesEssential Parts for Reliable \"",
+        "A: \"ModulesEnhance Your Machine's Capabiliti\""
+      ],
+      "hasCarousel": false,
+      "imagesCount": 4,
+      "videoCount": 0,
+      "imagesSample": [
+        "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20800%20898'%3E%3C/svg%3E",
+        "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20460%20516'%3E%3C/svg%3E",
+        "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20800%20898'%3E%3C/svg%3E",
+        "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20900%201011'%3E%3C/svg%3E"
+      ],
+      "videosSample": [],
+      "htmlSummary": "<section id=\"shopify-section-template--19427871850683__collection_cards_DcAhKe\" class=\"shopify-section cc-collection-cards section\"><style data-shopify=\"\">#shopify-section-template--19427871850683__collection_cards_DcAhKe.section {\n    margin-block: 40px 60px;\n  }\n  #shopify-section-template--19427871850683__collection_cards_DcAhKe .cc-grid  {\n    gap: 20px;\n  }\n  #shopify-section-template--194278"
+    },
+    {
+      "index": 2,
+      "tag": "section",
+      "id": "shopify-section-template--19427871850683__promo_hero_product_wHVK6J",
+      "classes": "shopify-section.cc-promo-hero-product.section",
+      "height": 839.515625,
+      "top": 1058.59375,
+      "headers": [
+        "h2: \"Snapmaker U1: The Most-funded Multi-color 3D Printer\""
+      ],
+      "buttons": [
+        "A: \"View All\"",
+        "A: \"<img src=\"//us.snapmaker.com/cdn/shop/fi\"",
+        "A: \"<img src=\"//us.snapmaker.com/cdn/shop/fi\"",
+        "A: \"Hot End for Snapmaker U1\"",
+        "BUTTON: \"Choose options Choose options\"",
+        "A: \"View details\"",
+        "A: \"<img src=\"//us.snapmaker.com/cdn/shop/fi\"",
+        "A: \"PETG HF Filament (RFID) - 1kg\"",
+        "BUTTON: \"Choose options Choose options\"",
+        "A: \"View details\""
+      ],
+      "hasCarousel": false,
+      "imagesCount": 41,
+      "videoCount": 2,
+      "imagesSample": [
+        "https://us.snapmaker.com/cdn/shop/files/PC_1200_400_U1_1.png?v=1776668229&width=1400",
+        "https://us.snapmaker.com/cdn/shop/files/preview_images/d850b4ee34c0494bb3c31716b799f684.thumbnail.0000000000_small.jpg?v=1775200135",
+        "https://us.snapmaker.com/cdn/shop/files/Mob__1080X1440_U1_9a9158fd-9bd1-4a9f-afe7-fd43bcc1d091.png?v=1776668136&width=980",
+        "https://us.snapmaker.com/cdn/shop/files/preview_images/57c198245e40463e95ac8a412fd87a00.thumbnail.0000000000_small.jpg?v=1775200119",
+        "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20900%20900'%3E%3C/svg%3E"
+      ],
+      "videosSample": [
+        "https://us.snapmaker.com/cdn/shop/videos/c/vp/d850b4ee34c0494bb3c31716b799f684/d850b4ee34c0494bb3c31716b799f684.HD-1080p-7.2Mbps-80184980.mp4?v=0",
+        "https://us.snapmaker.com/cdn/shop/videos/c/vp/57c198245e40463e95ac8a412fd87a00/57c198245e40463e95ac8a412fd87a00.HD-1080p-4.8Mbps-80184979.mp4?v=0"
+      ],
+      "htmlSummary": "<section id=\"shopify-section-template--19427871850683__promo_hero_product_wHVK6J\" class=\"shopify-section cc-promo-hero-product section\"><link href=\"//us.snapmaker.com/cdn/shop/t/148/assets/text-overlay.css?v=114122849825782127811775813737\" rel=\"stylesheet\" type=\"text/css\" media=\"all\">\n<style data-shopify=\"\">#shopify-section-template--19427871850683__promo_hero_product_wHVK6J.section {\n    margin-b"
+    },
+    {
+      "index": 3,
+      "tag": "section",
+      "id": "shopify-section-template--19427871850683__promo_hero_product_wbqBDW",
+      "classes": "shopify-section.cc-promo-hero-product.section",
+      "height": 862.015625,
+      "top": 1958.109375,
+      "headers": [
+        "h2: \"Snapmaker Artisan: The Ultimate 3-in-1 3D Printer\""
+      ],
+      "buttons": [
+        "A: \"View All\"",
+        "A: \"<img src=\"//us.snapmaker.com/cdn/shop/fi\"",
+        "A: \"<img src=\"//us.snapmaker.com/cdn/shop/pr\"",
+        "A: \"Hot End for Dual Extrusion Module\"",
+        "BUTTON: \"Choose options Choose options\"",
+        "A: \"View details\"",
+        "A: \"<img src=\"//us.snapmaker.com/cdn/shop/pr\"",
+        "A: \"CNC Bits (5 Bits)\"",
+        "BUTTON: \"Add to Cart Add to Cart\"",
+        "A: \"View details\""
+      ],
+      "hasCarousel": false,
+      "imagesCount": 24,
+      "videoCount": 2,
+      "imagesSample": [
+        "https://us.snapmaker.com/cdn/shop/files/PC_1200_400_Artisan_9deb05f0-4a66-4e56-8a37-90b1ef065477.png?v=1775200477&width=1400",
+        "https://us.snapmaker.com/cdn/shop/files/preview_images/525ea55a6fbd45f896901d1107787bfb.thumbnail.0000000000_small.jpg?v=1775200109",
+        "https://us.snapmaker.com/cdn/shop/files/Mob__1080X1440_Artisan.png?v=1775200492&width=980",
+        "https://us.snapmaker.com/cdn/shop/files/preview_images/6cbcefe3c879472997324655d26b78d9.thumbnail.0000000000_small.jpg?v=1775200131",
+        "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20900%20900'%3E%3C/svg%3E"
+      ],
+      "videosSample": [
+        "https://us.snapmaker.com/cdn/shop/videos/c/vp/525ea55a6fbd45f896901d1107787bfb/525ea55a6fbd45f896901d1107787bfb.SD-480p-1.5Mbps-80184982.mp4?v=0",
+        "https://us.snapmaker.com/cdn/shop/videos/c/vp/6cbcefe3c879472997324655d26b78d9/6cbcefe3c879472997324655d26b78d9.HD-1080p-7.2Mbps-80184981.mp4?v=0"
+      ],
+      "htmlSummary": "<section id=\"shopify-section-template--19427871850683__promo_hero_product_wbqBDW\" class=\"shopify-section cc-promo-hero-product section\"><link href=\"//us.snapmaker.com/cdn/shop/t/148/assets/text-overlay.css?v=114122849825782127811775813737\" rel=\"stylesheet\" type=\"text/css\" media=\"all\">\n<style data-shopify=\"\">#shopify-section-template--19427871850683__promo_hero_product_wbqBDW.section {\n    margin-b"
+    },
+    {
+      "index": 4,
+      "tag": "section",
+      "id": "shopify-section-template--19427871850683__reviews_kol_ckNPLH",
+      "classes": "shopify-section.cc-reviews-kol",
+      "height": 592.296875,
+      "top": 2880.125,
+      "headers": [
+        "h2: \"Customer Reviews\"",
+        "h3: \"A new chapter\"",
+        "h3: \"Fantastic Printer GET ONE!!\"",
+        "h3: \"It’s the everything system\"",
+        "h3: \"A Great Printer After Some Setup Issues\"",
+        "h3: \"As Expected....a Work of Art\"",
+        "h3: \"Beyond our expectations!Printing all the time now5\"",
+        "h3: \"What Did I Do Before This?\"",
+        "h3: \"Amazing\"",
+        "h3: \"Excellent\"",
+        "h3: \"An amazing machine\""
+      ],
+      "buttons": [
+        "BUTTON: \"Previous\"",
+        "BUTTON: \"Next\"",
+        "BUTTON: \"Next\"",
+        "BUTTON: \"Previous\""
+      ],
+      "hasCarousel": true,
+      "imagesCount": 11,
+      "videoCount": 0,
+      "imagesSample": [
+        "https://us.snapmaker.com/cdn/shop/files/Shape.png?v=1775200823&width=80",
+        "https://us.snapmaker.com/cdn/shop/files/Frame_427324436.webp?v=1775822244&width=860",
+        "https://us.snapmaker.com/cdn/shop/files/Frame_427324440.webp?v=1775822244&width=860",
+        "https://us.snapmaker.com/cdn/shop/files/Frame_427324433.webp?v=1775822244&width=860",
+        "https://us.snapmaker.com/cdn/shop/files/Frame_427324441.webp?v=1775822244&width=860"
+      ],
+      "videosSample": [],
+      "htmlSummary": "<section id=\"shopify-section-template--19427871850683__reviews_kol_ckNPLH\" class=\"shopify-section cc-reviews-kol\"><style data-shopify=\"\">#section-template--19427871850683__reviews_kol_ckNPLH.section {\n    margin-block: 60px;\n    padding-block: 60px;\n  }\n  #section-template--19427871850683__reviews_kol_ckNPLH {\n    background-color: #f4f4f4;\n  }\n  #section-template--19427871850683__reviews_kol_ckNP"
+    },
+    {
+      "index": 5,
+      "tag": "section",
+      "id": "shopify-section-template--19427871850683__awards_slider_9zfFpz",
+      "classes": "shopify-section.cc-awards",
+      "height": 289.296875,
+      "top": 3532.421875,
+      "headers": [
+        "h2: \"Awards\""
+      ],
+      "buttons": [],
+      "hasCarousel": true,
+      "imagesCount": 42,
+      "videoCount": 0,
+      "imagesSample": [
+        "https://us.snapmaker.com/cdn/shop/files/Frame_1162.webp?v=1777281034&width=240",
+        "https://us.snapmaker.com/cdn/shop/files/Frame_1157.webp?v=1777281856&width=240",
+        "https://us.snapmaker.com/cdn/shop/files/Frame_1155.webp?v=1777281856&width=240",
+        "https://us.snapmaker.com/cdn/shop/files/Frame_1161.webp?v=1777281855&width=240",
+        "https://us.snapmaker.com/cdn/shop/files/Frame_1156.webp?v=1777281856&width=240"
+      ],
+      "videosSample": [],
+      "htmlSummary": "<section id=\"shopify-section-template--19427871850683__awards_slider_9zfFpz\" class=\"shopify-section cc-awards\"><style data-shopify=\"\">#shopify-section-template--19427871850683__awards_slider_9zfFpz .awards.section { margin-block: 60px; }\n  #shopify-section-template--19427871850683__awards_slider_9zfFpz .awards { padding: 0; }\n  #shopify-section-template--19427871850683__awards_slider_9zfFpz .award"
+    },
+    {
+      "index": 6,
+      "tag": "section",
+      "id": "shopify-section-template--19427871850683__media_grid_c7qzdL",
+      "classes": "shopify-section.cc-gallery",
+      "height": 336,
+      "top": 3881.71875,
+      "headers": [
+        "h2: \"Discover More\"",
+        "h3: \"The Snappy Club\"",
+        "h3: \"Snapmaker Care\"",
+        "h3: \"Order Tracking\"",
+        "h3: \"Referral Program\""
+      ],
+      "buttons": [
+        "A: \"<img src=\"//us.snapmaker.com/cdn/shop/fi\"",
+        "BUTTON: \"Learn More\"",
+        "A: \"<img src=\"//us.snapmaker.com/cdn/shop/fi\"",
+        "BUTTON: \"Learn More\"",
+        "A: \"<img src=\"//us.snapmaker.com/cdn/shop/fi\"",
+        "BUTTON: \"Learn More\"",
+        "A: \"<img src=\"//us.snapmaker.com/cdn/shop/fi\"",
+        "BUTTON: \"Learn More\""
+      ],
+      "hasCarousel": false,
+      "imagesCount": 4,
+      "videoCount": 0,
+      "imagesSample": [
+        "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201400%201400'%3E%3C/svg%3E",
+        "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201400%201400'%3E%3C/svg%3E",
+        "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201400%201400'%3E%3C/svg%3E",
+        "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201400%201400'%3E%3C/svg%3E"
+      ],
+      "videosSample": [],
+      "htmlSummary": "<section id=\"shopify-section-template--19427871850683__media_grid_c7qzdL\" class=\"shopify-section cc-gallery\"><link rel=\"stylesheet\" href=\"//us.snapmaker.com/cdn/shop/t/148/assets/gallery.css?v=152040194639743892261775813735\"><style data-shopify=\"\">\n\n\n\n\n\n  #template--19427871850683__media_grid_c7qzdL .gallery-block { min-height: 300px; }\n  #template--19427871850683__media_grid_c7qzdL .gallery-block"
+    }
+  ],
+  "bodyChildren": [
+    {
+      "tag": "script",
+      "id": "klarna-osm-script-tag",
+      "classes": ""
+    },
+    {
+      "tag": "img",
+      "id": "",
+      "classes": ""
+    },
+    {
+      "tag": "img",
+      "id": "",
+      "classes": ""
+    },
+    {
+      "tag": "script",
+      "id": "",
+      "classes": ""
+    },
+    {
+      "tag": "link",
+      "id": "",
+      "classes": ""
+    },
+    {
+      "tag": "link",
+      "id": "",
+      "classes": ""
+    },
+    {
+      "tag": "link",
+      "id": "",
+      "classes": ""
+    },
+    {
+      "tag": "link",
+      "id": "",
+      "classes": ""
+    },
+    {
+      "tag": "script",
+      "id": "",
+      "classes": ""
+    },
+    {
+      "tag": "script",
+      "id": "",
+      "classes": ""
+    },
+    {
+      "tag": "script",
+      "id": "",
+      "classes": ""
+    },
+    {
+      "tag": "script",
+      "id": "",
+      "classes": ""
+    },
+    {
+      "tag": "script",
+      "id": "",
+      "classes": ""
+    },
+    {
+      "tag": "script",
+      "id": "",
+      "classes": ""
+    },
+    {
+      "tag": "script",
+      "id": "",
+      "classes": ""
+    },
+    {
+      "tag": "script",
+      "id": "",
+      "classes": ""
+    },
+    {
+      "tag": "script",
+      "id": "",
+      "classes": ""
+    },
+    {
+      "tag": "script",
+      "id": "",
+      "classes": ""
+    },
+    {
+      "tag": "link",
+      "id": "",
+      "classes": ""
+    },
+    {
+      "tag": "script",
+      "id": "vwoCode",
+      "classes": ""
+    },
+    {
+      "tag": "script",
+      "id": "",
+      "classes": ""
+    },
+    {
+      "tag": "script",
+      "id": "",
+      "classes": ""
+    },
+    {
+      "tag": "script",
+      "id": "",
+      "classes": ""
+    },
+    {
+      "tag": "script",
+      "id": "",
+      "classes": ""
+    },
+    {
+      "tag": "script",
+      "id": "",
+      "classes": ""
+    },
+    {
+      "tag": "script",
+      "id": "",
+      "classes": ""
+    },
+    {
+      "tag": "script",
+      "id": "",
+      "classes": ""
+    },
+    {
+      "tag": "script",
+      "id": "",
+      "classes": ""
+    },
+    {
+      "tag": "script",
+      "id": "",
+      "classes": ""
+    },
+    {
+      "tag": "script",
+      "id": "",
+      "classes": ""
+    },
+    {
+      "tag": "script",
+      "id": "",
+      "classes": ""
+    },
+    {
+      "tag": "script",
+      "id": "pagefly-helper-data",
+      "classes": ""
+    },
+    {
+      "tag": "script",
+      "id": "",
+      "classes": ""
+    },
+    {
+      "tag": "script",
+      "id": "",
+      "classes": ""
+    },
+    {
+      "tag": "script",
+      "id": "",
+      "classes": ""
+    },
+    {
+      "tag": "script",
+      "id": "",
+      "classes": ""
+    },
+    {
+      "tag": "script",
+      "id": "",
+      "classes": ""
+    },
+    {
+      "tag": "script",
+      "id": "ptengine-consent-handler",
+      "classes": ""
+    },
+    {
+      "tag": "script",
+      "id": "",
+      "classes": ""
+    },
+    {
+      "tag": "script",
+      "id": "",
+      "classes": ""
+    },
+    {
+      "tag": "script",
+      "id": "",
+      "classes": ""
+    },
+    {
+      "tag": "script",
+      "id": "",
+      "classes": ""
+    },
+    {
+      "tag": "script",
+      "id": "",
+      "classes": ""
+    },
+    {
+      "tag": "script",
+      "id": "",
+      "classes": ""
+    },
+    {
+      "tag": "script",
+      "id": "",
+      "classes": ""
+    },
+    {
+      "tag": "script",
+      "id": "",
+      "classes": ""
+    },
+    {
+      "tag": "script",
+      "id": "",
+      "classes": ""
+    },
+    {
+      "tag": "link",
+      "id": "",
+      "classes": ""
+    },
+    {
+      "tag": "script",
+      "id": "",
+      "classes": ""
+    },
+    {
+      "tag": "script",
+      "id": "",
+      "classes": ""
+    },
+    {
+      "tag": "script",
+      "id": "web-pixels-manager-setup",
+      "classes": ""
+    },
+    {
+      "tag": "script",
+      "id": "",
+      "classes": ""
+    },
+    {
+      "tag": "script",
+      "id": "",
+      "classes": "analytics"
+    },
+    {
+      "tag": "script",
+      "id": "",
+      "classes": ""
+    },
+    {
+      "tag": "style",
+      "id": "",
+      "classes": ""
+    },
+    {
+      "tag": "div",
+      "id": "snmk-loading",
+      "classes": "snmk-loading-false"
+    },
+    {
+      "tag": "script",
+      "id": "",
+      "classes": ""
+    },
+    {
+      "tag": "a",
+      "id": "",
+      "classes": "skip-link.btn.btn--primary.visually-hidden"
+    },
+    {
+      "tag": "div",
+      "id": "shopify-section-sections--19427869458619__announcement",
+      "classes": "shopify-section.shopify-section-group-header-group.cc-announcement"
+    },
+    {
+      "tag": "div",
+      "id": "shopify-section-sections--19427869458619__header",
+      "classes": "shopify-section.shopify-section-group-header-group.cc-header.cc-header--sticky"
+    },
+    {
+      "tag": "section",
+      "id": "shopify-section-sections--19427869458619__ip_geo_tip_kYbpUk",
+      "classes": "shopify-section.shopify-section-group-header-group.ip-geo-tip-section"
+    },
+    {
+      "tag": "section",
+      "id": "shopify-section-sections--19427869458619__header_product_cards_mjHr6w",
+      "classes": "shopify-section.shopify-section-group-header-group.snmk-header-product-cards"
+    },
+    {
+      "tag": "main",
+      "id": "main-content",
+      "classes": ""
+    },
+    {
+      "tag": "div",
+      "id": "shopify-section-sections--19427869491387__cart-drawer",
+      "classes": "shopify-section.shopify-section-group-overlay-group.cc-cart-drawer"
+    },
+    {
+      "tag": "div",
+      "id": "shopify-section-sections--19427869491387__product-compare",
+      "classes": "shopify-section.shopify-section-group-overlay-group.cc-compare"
+    },
+    {
+      "tag": "div",
+      "id": "shopify-section-sections--19427869425851__footer",
+      "classes": "shopify-section.shopify-section-group-footer-group.cc-footer"
+    },
+    {
+      "tag": "div",
+      "id": "web-pixels-manager-sandbox-container",
+      "classes": ""
+    },
+    {
+      "tag": "quick-add-drawer",
+      "id": "",
+      "classes": "drawer.quick-add-drawer.overflow-hidden.fixed.top-0.right-0.flex.flex-col.w-full.has-motion.js-product"
+    },
+    {
+      "tag": "div",
+      "id": "",
+      "classes": "overlay.fixed.top-0.right-0.bottom-0.left-0.js-overlay"
+    },
+    {
+      "tag": "script",
+      "id": "",
+      "classes": ""
+    },
+    {
+      "tag": "script",
+      "id": "",
+      "classes": ""
+    },
+    {
+      "tag": "script",
+      "id": "",
+      "classes": ""
+    },
+    {
+      "tag": "script",
+      "id": "",
+      "classes": ""
+    },
+    {
+      "tag": "script",
+      "id": "",
+      "classes": ""
+    },
+    {
+      "tag": "noscript",
+      "id": "",
+      "classes": ""
+    },
+    {
+      "tag": "script",
+      "id": "",
+      "classes": ""
+    },
+    {
+      "tag": "script",
+      "id": "",
+      "classes": ""
+    },
+    {
+      "tag": "script",
+      "id": "",
+      "classes": ""
+    },
+    {
+      "tag": "style",
+      "id": "",
+      "classes": ""
+    },
+    {
+      "tag": "script",
+      "id": "",
+      "classes": ""
+    },
+    {
+      "tag": "div",
+      "id": "",
+      "classes": "ly-switcher-wrapper.ly-breakpoint-1.fixed.bottom_right.ly-hide"
+    },
+    {
+      "tag": "style",
+      "id": "",
+      "classes": ""
+    },
+    {
+      "tag": "script",
+      "id": "",
+      "classes": ""
+    },
+    {
+      "tag": "script",
+      "id": "",
+      "classes": ""
+    },
+    {
+      "tag": "script",
+      "id": "",
+      "classes": ""
+    },
+    {
+      "tag": "div",
+      "id": "shopify-block-AR3JjZDY4emxKYnFYS__3720565183479497137",
+      "classes": "shopify-block.shopify-app-block"
+    },
+    {
+      "tag": "div",
+      "id": "shopify-block-AQ0JxQSt5S0ZLMlhJU__9561175941055650394",
+      "classes": "shopify-block.shopify-app-block"
+    },
+    {
+      "tag": "div",
+      "id": "shopify-block-AMEI4UklxaWwraXhYa__8035815586522894503",
+      "classes": "shopify-block.shopify-app-block"
+    },
+    {
+      "tag": "div",
+      "id": "shopify-block-AcFN1M1hVN1RCVTB6Y__5057006142565981955",
+      "classes": "shopify-block.shopify-app-block"
+    },
+    {
+      "tag": "div",
+      "id": "shopify-block-ANW51T1FqOURuNlhoU__15714838451323730227",
+      "classes": "shopify-block.shopify-app-block"
+    },
+    {
+      "tag": "div",
+      "id": "shopify-block-AdXA4OCtYdjB6TTFBR__1319389761260360297",
+      "classes": "shopify-block.shopify-app-block"
+    },
+    {
+      "tag": "div",
+      "id": "shopify-block-AV3pNMHcxcW5GRGtyc__15247839323734551960",
+      "classes": "shopify-block.shopify-app-block"
+    },
+    {
+      "tag": "div",
+      "id": "shopify-block-AdFEvYlk1MUxES3MrM__15623156175785154009",
+      "classes": "shopify-block.shopify-app-block"
+    },
+    {
+      "tag": "div",
+      "id": "shopify-block-ARDg4Z1hUeFJ5Ly82T__7189699408915317034",
+      "classes": "shopify-block.shopify-app-block"
+    },
+    {
+      "tag": "div",
+      "id": "shopify-block-AWi9IVGtlcnBUZCtWQ__11242429557760608184",
+      "classes": "shopify-block.shopify-app-block"
+    },
+    {
+      "tag": "div",
+      "id": "shopify-block-AWHE2T09FSUhEck9pT__1744161739547163668",
+      "classes": "shopify-block.shopify-app-block"
+    },
+    {
+      "tag": "div",
+      "id": "shopify-block-AR2FMSW9nNERWcU9kV__6174324309569838175",
+      "classes": "shopify-block.shopify-app-block"
+    },
+    {
+      "tag": "script",
+      "id": "",
+      "classes": ""
+    },
+    {
+      "tag": "script",
+      "id": "",
+      "classes": ""
+    },
+    {
+      "tag": "div",
+      "id": "snmk-modal-1",
+      "classes": "snmk-modal"
+    },
+    {
+      "tag": "script",
+      "id": "",
+      "classes": ""
+    },
+    {
+      "tag": "div",
+      "id": "qikify-tmenu",
+      "classes": ""
+    },
+    {
+      "tag": "style",
+      "id": "",
+      "classes": ""
+    },
+    {
+      "tag": "shop-cart-sync",
+      "id": "",
+      "classes": ""
+    },
+    {
+      "tag": "div",
+      "id": "batBeacon874977297435",
+      "classes": ""
+    },
+    {
+      "tag": "iframe",
+      "id": "_hjSafeContext_39974424",
+      "classes": ""
+    },
+    {
+      "tag": "script",
+      "id": "",
+      "classes": ""
+    },
+    {
+      "tag": "script",
+      "id": "",
+      "classes": ""
+    },
+    {
+      "tag": "iframe",
+      "id": "",
+      "classes": ""
+    },
+    {
+      "tag": "iframe",
+      "id": "fastgpt-chatbot-window",
+      "classes": ""
+    },
+    {
+      "tag": "div",
+      "id": "fastgpt-chatbot-button",
+      "classes": ""
+    },
+    {
+      "tag": "div",
+      "id": "am-reviews-overlay-container-production",
+      "classes": ""
+    },
+    {
+      "tag": "div",
+      "id": "smile-ui-lite-container",
+      "classes": ""
+    }
+  ],
+  "title": "Snapmaker Online Store | 3D Printers, Laser Engravers, CNC Carvers – Snapmaker US"
+}

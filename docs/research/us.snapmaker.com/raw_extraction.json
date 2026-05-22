@@ -1,0 +1,1492 @@
+{
+  "colors": [
+    "rgb(0, 0, 0)",
+    "rgb(255, 255, 255)",
+    "rgb(52, 152, 219) rgb(243, 243, 243) rgb(243, 243, 243)",
+    "rgb(36, 36, 36)",
+    "rgb(111, 111, 111)",
+    "rgb(249, 249, 249)",
+    "rgba(0, 0, 0, 0.7)",
+    "rgb(92, 92, 92)",
+    "rgb(245, 247, 248)",
+    "rgb(153, 153, 153)",
+    "rgb(7, 7, 7)",
+    "rgb(7, 7, 7) rgb(7, 7, 7) rgba(7, 7, 7, 0.15)",
+    "rgb(51, 51, 51)",
+    "rgba(7, 7, 7, 0.08)",
+    "rgba(0, 0, 0, 0.4)",
+    "rgb(204, 204, 204)",
+    "rgb(240, 240, 240)",
+    "rgb(12, 99, 226)",
+    "rgb(250, 250, 250)",
+    "rgb(231, 81, 54)",
+    "rgb(151, 151, 151)",
+    "rgb(255, 205, 0)",
+    "rgba(255, 255, 255, 0.2)",
+    "rgba(0, 0, 0, 0.6)",
+    "rgb(65, 65, 65)",
+    "rgba(255, 255, 255, 0.9)",
+    "rgb(180, 12, 28)",
+    "rgb(252, 237, 238)",
+    "rgba(180, 12, 28, 0.2)"
+  ],
+  "fonts": [
+    "\"Times New Roman\"",
+    "Roboto, sans-serif",
+    "Roboto",
+    "Montserrat",
+    "\"Nunito Sans\", sans-serif"
+  ],
+  "sections": [
+    {
+      "index": 0,
+      "tag": "wlm",
+      "id": "",
+      "classes": "wlm-content",
+      "height": 4076.71875,
+      "textHeader": "Snapmaker U1 3D Printer",
+      "childCount": 7
+    },
+    {
+      "index": 1,
+      "tag": "div",
+      "id": "wlmpnf",
+      "classes": "",
+      "height": 0,
+      "textHeader": "",
+      "childCount": 1
+    },
+    {
+      "index": 2,
+      "tag": "div",
+      "id": "wlm-pwd-form",
+      "classes": "",
+      "height": 0,
+      "textHeader": "",
+      "childCount": 1
+    }
+  ],
+  "images": [
+    {
+      "src": "data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz48c3ZnIHdpZHRoPSI5OTk5OXB4IiBoZWlnaHQ9Ijk5OTk5cHgiIHZpZXdCb3g9IjAgMCA5OTk5OSA5OTk5OSIgdmVyc2lvbj0iMS4xIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIj48ZyBzdHJva2U9Im5vbmUiIGZpbGw9Im5vbmUiIGZpbGwtb3BhY2l0eT0iMCI+PHJlY3QgeD0iMCIgeT0iMCIgd2lkdGg9Ijk5OTk5IiBoZWlnaHQ9Ijk5OTk5Ij48L3JlY3Q+IDwvZz4gPC9zdmc+",
+      "alt": "snapmaker",
+      "width": 99999,
+      "height": 99999,
+      "parentClasses": "cc-animate-enabled dom-loaded dom-loaded-plus-6",
+      "position": "absolute",
+      "zIndex": "auto"
+    },
+    {
+      "src": "data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz48c3ZnIHdpZHRoPSI5OTk5OXB4IiBoZWlnaHQ9Ijk5OTk5cHgiIHZpZXdCb3g9IjAgMCA5OTk5OSA5OTk5OSIgdmVyc2lvbj0iMS4xIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIj48ZyBzdHJva2U9Im5vbmUiIGZpbGw9Im5vbmUiIGZpbGwtb3BhY2l0eT0iMCI+PHJlY3QgeD0iMCIgeT0iMCIgd2lkdGg9Ijk5OTk5IiBoZWlnaHQ9Ijk5OTk5Ij48L3JlY3Q+IDwvZz4gPC9zdmc+",
+      "alt": "snapmaker",
+      "width": 99999,
+      "height": 99999,
+      "parentClasses": "cc-animate-enabled dom-loaded dom-loaded-plus-6",
+      "position": "absolute",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://us.snapmaker.com/cdn/shop/files/LOGO.svg?v=1738306041&width=150",
+      "alt": "snapmaker",
+      "width": 150,
+      "height": 21,
+      "parentClasses": "flex",
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://us.snapmaker.com/cdn/shop/files/logo.png?v=1761210142&width=48",
+      "alt": "snapmaker",
+      "width": 48,
+      "height": 48,
+      "parentClasses": "web-push-popup__image",
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://us.snapmaker.com/cdn/shop/files/20260411-111325.png?v=1775877725&width=460",
+      "alt": "snapmaker",
+      "width": 900,
+      "height": 900,
+      "parentClasses": "snmk-product-card__link",
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://us.snapmaker.com/cdn/shop/files/ArtisanPremium0317.png?v=1775877373&width=460",
+      "alt": "snapmaker",
+      "width": 900,
+      "height": 900,
+      "parentClasses": "snmk-product-card__link",
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://us.snapmaker.com/cdn/shop/files/Artisan0317_2c175805-819b-4854-8d52-2ef226039065.png?v=1775877373&width=460",
+      "alt": "snapmaker",
+      "width": 900,
+      "height": 900,
+      "parentClasses": "snmk-product-card__link",
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://us.snapmaker.com/cdn/shop/files/20260514-143351.webp?v=1778740513&width=980",
+      "alt": "snapmaker",
+      "width": 1440,
+      "height": 2304,
+      "parentClasses": "image-banner__image media media--has-overlay absolute top-0 left-0 w-full h-full has-motion transition-out",
+      "position": "absolute",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://us.snapmaker.com/cdn/shop/files/Frame_427324372_2.webp?v=1778741067&width=1400",
+      "alt": "snapmaker",
+      "width": 1440,
+      "height": 375,
+      "parentClasses": "image-banner__image media media--has-overlay absolute top-0 left-0 w-full h-full has-motion transition-out",
+      "position": "absolute",
+      "zIndex": "auto"
+    },
+    {
+      "src": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201400%202240'%3E%3C/svg%3E",
+      "alt": "snapmaker",
+      "width": 1400,
+      "height": 2240,
+      "parentClasses": "image-banner__image media media--has-overlay absolute top-0 left-0 w-full h-full has-motion",
+      "position": "absolute",
+      "zIndex": "auto"
+    },
+    {
+      "src": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%203200%20833'%3E%3C/svg%3E",
+      "alt": "snapmaker",
+      "width": 1440,
+      "height": 375,
+      "parentClasses": "image-banner__image media media--has-overlay absolute top-0 left-0 w-full h-full has-motion",
+      "position": "absolute",
+      "zIndex": "auto"
+    },
+    {
+      "src": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20980%201670'%3E%3C/svg%3E",
+      "alt": "snapmaker",
+      "width": 980,
+      "height": 1670,
+      "parentClasses": "image-banner__image media media--has-overlay absolute top-0 left-0 w-full h-full has-motion",
+      "position": "absolute",
+      "zIndex": "auto"
+    },
+    {
+      "src": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%202560%20667'%3E%3C/svg%3E",
+      "alt": "snapmaker",
+      "width": 1440,
+      "height": 375,
+      "parentClasses": "image-banner__image media media--has-overlay absolute top-0 left-0 w-full h-full has-motion",
+      "position": "absolute",
+      "zIndex": "auto"
+    },
+    {
+      "src": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201400%202240'%3E%3C/svg%3E",
+      "alt": "snapmaker",
+      "width": 1400,
+      "height": 2240,
+      "parentClasses": "image-banner__image media media--has-overlay absolute top-0 left-0 w-full h-full has-motion",
+      "position": "absolute",
+      "zIndex": "auto"
+    },
+    {
+      "src": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%203200%20833'%3E%3C/svg%3E",
+      "alt": "snapmaker",
+      "width": 1440,
+      "height": 375,
+      "parentClasses": "image-banner__image media media--has-overlay absolute top-0 left-0 w-full h-full has-motion",
+      "position": "absolute",
+      "zIndex": "auto"
+    },
+    {
+      "src": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20800%20898'%3E%3C/svg%3E",
+      "alt": "snapmaker",
+      "width": 282,
+      "height": 316,
+      "parentClasses": "media block relative",
+      "position": "absolute",
+      "zIndex": "auto"
+    },
+    {
+      "src": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20460%20516'%3E%3C/svg%3E",
+      "alt": "snapmaker",
+      "width": 282,
+      "height": 316,
+      "parentClasses": "media block relative",
+      "position": "absolute",
+      "zIndex": "auto"
+    },
+    {
+      "src": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20800%20898'%3E%3C/svg%3E",
+      "alt": "snapmaker",
+      "width": 282,
+      "height": 316,
+      "parentClasses": "media block relative",
+      "position": "absolute",
+      "zIndex": "auto"
+    },
+    {
+      "src": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20900%201011'%3E%3C/svg%3E",
+      "alt": "snapmaker",
+      "width": 282,
+      "height": 316,
+      "parentClasses": "media block relative",
+      "position": "absolute",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://us.snapmaker.com/cdn/shop/files/PC_1200_400_U1_1.png?v=1776668229&width=1400",
+      "alt": "snapmaker",
+      "width": 1311,
+      "height": 437,
+      "parentClasses": "media block relative",
+      "position": "absolute",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://us.snapmaker.com/cdn/shop/files/preview_images/d850b4ee34c0494bb3c31716b799f684.thumbnail.0000000000_small.jpg?v=1775200135",
+      "alt": "snapmaker",
+      "width": 100,
+      "height": 33,
+      "parentClasses": "",
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://us.snapmaker.com/cdn/shop/files/Mob__1080X1440_U1_9a9158fd-9bd1-4a9f-afe7-fd43bcc1d091.png?v=1776668136&width=980",
+      "alt": "snapmaker",
+      "width": 1311,
+      "height": 1749,
+      "parentClasses": "media block relative",
+      "position": "absolute",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://us.snapmaker.com/cdn/shop/files/preview_images/57c198245e40463e95ac8a412fd87a00.thumbnail.0000000000_small.jpg?v=1775200119",
+      "alt": "snapmaker",
+      "width": 75,
+      "height": 100,
+      "parentClasses": "",
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20900%20900'%3E%3C/svg%3E",
+      "alt": "snapmaker",
+      "width": 1440,
+      "height": 1440,
+      "parentClasses": "media block relative",
+      "position": "absolute",
+      "zIndex": "auto"
+    },
+    {
+      "src": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20900%20900'%3E%3C/svg%3E",
+      "alt": "snapmaker",
+      "width": 1440,
+      "height": 1440,
+      "parentClasses": "media block relative",
+      "position": "absolute",
+      "zIndex": "auto"
+    },
+    {
+      "src": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20900%20900'%3E%3C/svg%3E",
+      "alt": "snapmaker",
+      "width": 900,
+      "height": 900,
+      "parentClasses": "media block relative",
+      "position": "absolute",
+      "zIndex": "auto"
+    },
+    {
+      "src": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20900%20900'%3E%3C/svg%3E",
+      "alt": "snapmaker",
+      "width": 900,
+      "height": 900,
+      "parentClasses": "media block relative",
+      "position": "absolute",
+      "zIndex": "auto"
+    },
+    {
+      "src": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20900%20900'%3E%3C/svg%3E",
+      "alt": "snapmaker",
+      "width": 900,
+      "height": 900,
+      "parentClasses": "media block relative",
+      "position": "absolute",
+      "zIndex": "auto"
+    },
+    {
+      "src": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20900%20900'%3E%3C/svg%3E",
+      "alt": "snapmaker",
+      "width": 1440,
+      "height": 1440,
+      "parentClasses": "media block relative",
+      "position": "absolute",
+      "zIndex": "auto"
+    },
+    {
+      "src": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201200%201200'%3E%3C/svg%3E",
+      "alt": "snapmaker",
+      "width": 1440,
+      "height": 1440,
+      "parentClasses": "media block relative",
+      "position": "absolute",
+      "zIndex": "auto"
+    },
+    {
+      "src": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20900%20900'%3E%3C/svg%3E",
+      "alt": "snapmaker",
+      "width": 900,
+      "height": 900,
+      "parentClasses": "media block relative",
+      "position": "absolute",
+      "zIndex": "auto"
+    },
+    {
+      "src": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20900%20900'%3E%3C/svg%3E",
+      "alt": "snapmaker",
+      "width": 900,
+      "height": 900,
+      "parentClasses": "media block relative",
+      "position": "absolute",
+      "zIndex": "auto"
+    },
+    {
+      "src": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20900%20900'%3E%3C/svg%3E",
+      "alt": "snapmaker",
+      "width": 900,
+      "height": 900,
+      "parentClasses": "media block relative",
+      "position": "absolute",
+      "zIndex": "auto"
+    },
+    {
+      "src": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20900%20900'%3E%3C/svg%3E",
+      "alt": "snapmaker",
+      "width": 900,
+      "height": 900,
+      "parentClasses": "media block relative",
+      "position": "absolute",
+      "zIndex": "auto"
+    },
+    {
+      "src": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20900%20900'%3E%3C/svg%3E",
+      "alt": "snapmaker",
+      "width": 900,
+      "height": 900,
+      "parentClasses": "media block relative",
+      "position": "absolute",
+      "zIndex": "auto"
+    },
+    {
+      "src": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20900%20900'%3E%3C/svg%3E",
+      "alt": "snapmaker",
+      "width": 900,
+      "height": 900,
+      "parentClasses": "media block relative",
+      "position": "absolute",
+      "zIndex": "auto"
+    },
+    {
+      "src": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20900%20900'%3E%3C/svg%3E",
+      "alt": "snapmaker",
+      "width": 900,
+      "height": 900,
+      "parentClasses": "media block relative",
+      "position": "absolute",
+      "zIndex": "auto"
+    },
+    {
+      "src": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20900%20900'%3E%3C/svg%3E",
+      "alt": "snapmaker",
+      "width": 900,
+      "height": 900,
+      "parentClasses": "media block relative",
+      "position": "absolute",
+      "zIndex": "auto"
+    },
+    {
+      "src": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20900%20900'%3E%3C/svg%3E",
+      "alt": "snapmaker",
+      "width": 900,
+      "height": 900,
+      "parentClasses": "media block relative",
+      "position": "absolute",
+      "zIndex": "auto"
+    },
+    {
+      "src": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20900%20900'%3E%3C/svg%3E",
+      "alt": "snapmaker",
+      "width": 900,
+      "height": 900,
+      "parentClasses": "media block relative",
+      "position": "absolute",
+      "zIndex": "auto"
+    },
+    {
+      "src": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201200%201200'%3E%3C/svg%3E",
+      "alt": "snapmaker",
+      "width": 1440,
+      "height": 1440,
+      "parentClasses": "media block relative",
+      "position": "absolute",
+      "zIndex": "auto"
+    },
+    {
+      "src": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201200%201200'%3E%3C/svg%3E",
+      "alt": "snapmaker",
+      "width": 1440,
+      "height": 1440,
+      "parentClasses": "media block relative",
+      "position": "absolute",
+      "zIndex": "auto"
+    },
+    {
+      "src": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20900%20900'%3E%3C/svg%3E",
+      "alt": "snapmaker",
+      "width": 900,
+      "height": 900,
+      "parentClasses": "media block relative",
+      "position": "absolute",
+      "zIndex": "auto"
+    },
+    {
+      "src": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20900%20900'%3E%3C/svg%3E",
+      "alt": "snapmaker",
+      "width": 900,
+      "height": 900,
+      "parentClasses": "media block relative",
+      "position": "absolute",
+      "zIndex": "auto"
+    },
+    {
+      "src": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20900%20900'%3E%3C/svg%3E",
+      "alt": "snapmaker",
+      "width": 900,
+      "height": 900,
+      "parentClasses": "media block relative",
+      "position": "absolute",
+      "zIndex": "auto"
+    },
+    {
+      "src": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20900%20900'%3E%3C/svg%3E",
+      "alt": "snapmaker",
+      "width": 900,
+      "height": 900,
+      "parentClasses": "media block relative",
+      "position": "absolute",
+      "zIndex": "auto"
+    },
+    {
+      "src": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20900%20900'%3E%3C/svg%3E",
+      "alt": "snapmaker",
+      "width": 900,
+      "height": 900,
+      "parentClasses": "media block relative",
+      "position": "absolute",
+      "zIndex": "auto"
+    },
+    {
+      "src": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20900%20900'%3E%3C/svg%3E",
+      "alt": "snapmaker",
+      "width": 900,
+      "height": 900,
+      "parentClasses": "media block relative",
+      "position": "absolute",
+      "zIndex": "auto"
+    },
+    {
+      "src": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201200%201200'%3E%3C/svg%3E",
+      "alt": "snapmaker",
+      "width": 1440,
+      "height": 1440,
+      "parentClasses": "media block relative",
+      "position": "absolute",
+      "zIndex": "auto"
+    },
+    {
+      "src": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201200%201200'%3E%3C/svg%3E",
+      "alt": "snapmaker",
+      "width": 1440,
+      "height": 1440,
+      "parentClasses": "media block relative",
+      "position": "absolute",
+      "zIndex": "auto"
+    },
+    {
+      "src": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20900%20900'%3E%3C/svg%3E",
+      "alt": "snapmaker",
+      "width": 900,
+      "height": 900,
+      "parentClasses": "media block relative",
+      "position": "absolute",
+      "zIndex": "auto"
+    },
+    {
+      "src": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20900%20900'%3E%3C/svg%3E",
+      "alt": "snapmaker",
+      "width": 900,
+      "height": 900,
+      "parentClasses": "media block relative",
+      "position": "absolute",
+      "zIndex": "auto"
+    },
+    {
+      "src": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20900%20900'%3E%3C/svg%3E",
+      "alt": "snapmaker",
+      "width": 900,
+      "height": 900,
+      "parentClasses": "media block relative",
+      "position": "absolute",
+      "zIndex": "auto"
+    },
+    {
+      "src": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20900%20900'%3E%3C/svg%3E",
+      "alt": "snapmaker",
+      "width": 900,
+      "height": 900,
+      "parentClasses": "media block relative",
+      "position": "absolute",
+      "zIndex": "auto"
+    },
+    {
+      "src": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20900%20900'%3E%3C/svg%3E",
+      "alt": "snapmaker",
+      "width": 900,
+      "height": 900,
+      "parentClasses": "media block relative",
+      "position": "absolute",
+      "zIndex": "auto"
+    },
+    {
+      "src": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20900%20900'%3E%3C/svg%3E",
+      "alt": "snapmaker",
+      "width": 900,
+      "height": 900,
+      "parentClasses": "media block relative",
+      "position": "absolute",
+      "zIndex": "auto"
+    },
+    {
+      "src": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20900%20900'%3E%3C/svg%3E",
+      "alt": "snapmaker",
+      "width": 900,
+      "height": 900,
+      "parentClasses": "media block relative",
+      "position": "absolute",
+      "zIndex": "auto"
+    },
+    {
+      "src": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20900%20900'%3E%3C/svg%3E",
+      "alt": "snapmaker",
+      "width": 900,
+      "height": 900,
+      "parentClasses": "media block relative",
+      "position": "absolute",
+      "zIndex": "auto"
+    },
+    {
+      "src": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20900%20900'%3E%3C/svg%3E",
+      "alt": "snapmaker",
+      "width": 900,
+      "height": 900,
+      "parentClasses": "media block relative",
+      "position": "absolute",
+      "zIndex": "auto"
+    },
+    {
+      "src": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201200%201200'%3E%3C/svg%3E",
+      "alt": "snapmaker",
+      "width": 1440,
+      "height": 1440,
+      "parentClasses": "media block relative",
+      "position": "absolute",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://us.snapmaker.com/cdn/shop/files/PC_1200_400_Artisan_9deb05f0-4a66-4e56-8a37-90b1ef065477.png?v=1775200477&width=1400",
+      "alt": "snapmaker",
+      "width": 1312,
+      "height": 437,
+      "parentClasses": "media block relative",
+      "position": "absolute",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://us.snapmaker.com/cdn/shop/files/preview_images/525ea55a6fbd45f896901d1107787bfb.thumbnail.0000000000_small.jpg?v=1775200109",
+      "alt": "snapmaker",
+      "width": 100,
+      "height": 33,
+      "parentClasses": "",
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://us.snapmaker.com/cdn/shop/files/Mob__1080X1440_Artisan.png?v=1775200492&width=980",
+      "alt": "snapmaker",
+      "width": 1312,
+      "height": 1749,
+      "parentClasses": "media block relative",
+      "position": "absolute",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://us.snapmaker.com/cdn/shop/files/preview_images/6cbcefe3c879472997324655d26b78d9.thumbnail.0000000000_small.jpg?v=1775200131",
+      "alt": "snapmaker",
+      "width": 75,
+      "height": 100,
+      "parentClasses": "",
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20900%20900'%3E%3C/svg%3E",
+      "alt": "snapmaker",
+      "width": 1440,
+      "height": 1440,
+      "parentClasses": "media block relative",
+      "position": "absolute",
+      "zIndex": "auto"
+    },
+    {
+      "src": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20900%20900'%3E%3C/svg%3E",
+      "alt": "snapmaker",
+      "width": 900,
+      "height": 900,
+      "parentClasses": "media block relative",
+      "position": "absolute",
+      "zIndex": "auto"
+    },
+    {
+      "src": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20900%20900'%3E%3C/svg%3E",
+      "alt": "snapmaker",
+      "width": 900,
+      "height": 900,
+      "parentClasses": "media block relative",
+      "position": "absolute",
+      "zIndex": "auto"
+    },
+    {
+      "src": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20900%20900'%3E%3C/svg%3E",
+      "alt": "snapmaker",
+      "width": 900,
+      "height": 900,
+      "parentClasses": "media block relative",
+      "position": "absolute",
+      "zIndex": "auto"
+    },
+    {
+      "src": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20900%20900'%3E%3C/svg%3E",
+      "alt": "snapmaker",
+      "width": 900,
+      "height": 900,
+      "parentClasses": "media block relative",
+      "position": "absolute",
+      "zIndex": "auto"
+    },
+    {
+      "src": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20900%20900'%3E%3C/svg%3E",
+      "alt": "snapmaker",
+      "width": 900,
+      "height": 900,
+      "parentClasses": "media block relative",
+      "position": "absolute",
+      "zIndex": "auto"
+    },
+    {
+      "src": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201200%201200'%3E%3C/svg%3E",
+      "alt": "snapmaker",
+      "width": 1200,
+      "height": 1200,
+      "parentClasses": "media block relative",
+      "position": "absolute",
+      "zIndex": "auto"
+    },
+    {
+      "src": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20900%20900'%3E%3C/svg%3E",
+      "alt": "snapmaker",
+      "width": 1440,
+      "height": 1440,
+      "parentClasses": "media block relative",
+      "position": "absolute",
+      "zIndex": "auto"
+    },
+    {
+      "src": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20900%20900'%3E%3C/svg%3E",
+      "alt": "snapmaker",
+      "width": 1440,
+      "height": 1440,
+      "parentClasses": "media block relative",
+      "position": "absolute",
+      "zIndex": "auto"
+    },
+    {
+      "src": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201200%201200'%3E%3C/svg%3E",
+      "alt": "snapmaker",
+      "width": 1440,
+      "height": 1440,
+      "parentClasses": "media block relative",
+      "position": "absolute",
+      "zIndex": "auto"
+    },
+    {
+      "src": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20900%20900'%3E%3C/svg%3E",
+      "alt": "snapmaker",
+      "width": 1440,
+      "height": 1440,
+      "parentClasses": "media block relative",
+      "position": "absolute",
+      "zIndex": "auto"
+    },
+    {
+      "src": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20900%20900'%3E%3C/svg%3E",
+      "alt": "snapmaker",
+      "width": 900,
+      "height": 900,
+      "parentClasses": "media block relative",
+      "position": "absolute",
+      "zIndex": "auto"
+    },
+    {
+      "src": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20900%20900'%3E%3C/svg%3E",
+      "alt": "snapmaker",
+      "width": 1440,
+      "height": 1440,
+      "parentClasses": "media block relative",
+      "position": "absolute",
+      "zIndex": "auto"
+    },
+    {
+      "src": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20900%20900'%3E%3C/svg%3E",
+      "alt": "snapmaker",
+      "width": 1440,
+      "height": 1440,
+      "parentClasses": "media block relative",
+      "position": "absolute",
+      "zIndex": "auto"
+    },
+    {
+      "src": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20900%20900'%3E%3C/svg%3E",
+      "alt": "snapmaker",
+      "width": 1440,
+      "height": 1440,
+      "parentClasses": "media block relative",
+      "position": "absolute",
+      "zIndex": "auto"
+    },
+    {
+      "src": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20900%20900'%3E%3C/svg%3E",
+      "alt": "snapmaker",
+      "width": 900,
+      "height": 900,
+      "parentClasses": "media block relative",
+      "position": "absolute",
+      "zIndex": "auto"
+    },
+    {
+      "src": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20900%20900'%3E%3C/svg%3E",
+      "alt": "snapmaker",
+      "width": 900,
+      "height": 900,
+      "parentClasses": "media block relative",
+      "position": "absolute",
+      "zIndex": "auto"
+    },
+    {
+      "src": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20900%20900'%3E%3C/svg%3E",
+      "alt": "snapmaker",
+      "width": 900,
+      "height": 900,
+      "parentClasses": "media block relative",
+      "position": "absolute",
+      "zIndex": "auto"
+    },
+    {
+      "src": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20900%20900'%3E%3C/svg%3E",
+      "alt": "snapmaker",
+      "width": 900,
+      "height": 900,
+      "parentClasses": "media block relative",
+      "position": "absolute",
+      "zIndex": "auto"
+    },
+    {
+      "src": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20900%20900'%3E%3C/svg%3E",
+      "alt": "snapmaker",
+      "width": 1440,
+      "height": 1440,
+      "parentClasses": "media block relative",
+      "position": "absolute",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://us.snapmaker.com/cdn/shop/files/Shape.png?v=1775200823&width=80",
+      "alt": "snapmaker",
+      "width": 26,
+      "height": 24,
+      "parentClasses": "rp-rating__platform",
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://us.snapmaker.com/cdn/shop/files/Frame_427324436.webp?v=1775822244&width=860",
+      "alt": "snapmaker",
+      "width": 860,
+      "height": 568,
+      "parentClasses": "media relative rp-kol-card__img",
+      "position": "absolute",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://us.snapmaker.com/cdn/shop/files/Frame_427324440.webp?v=1775822244&width=860",
+      "alt": "snapmaker",
+      "width": 860,
+      "height": 568,
+      "parentClasses": "media relative rp-kol-card__img",
+      "position": "absolute",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://us.snapmaker.com/cdn/shop/files/Frame_427324433.webp?v=1775822244&width=860",
+      "alt": "snapmaker",
+      "width": 860,
+      "height": 568,
+      "parentClasses": "media relative rp-kol-card__img",
+      "position": "absolute",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://us.snapmaker.com/cdn/shop/files/Frame_427324441.webp?v=1775822244&width=860",
+      "alt": "snapmaker",
+      "width": 860,
+      "height": 568,
+      "parentClasses": "media relative rp-kol-card__img",
+      "position": "absolute",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://us.snapmaker.com/cdn/shop/files/Frame_427324444.webp?v=1775822244&width=860",
+      "alt": "snapmaker",
+      "width": 860,
+      "height": 568,
+      "parentClasses": "media relative rp-kol-card__img",
+      "position": "absolute",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://us.snapmaker.com/cdn/shop/files/Frame_427324437.webp?v=1775822245&width=860",
+      "alt": "snapmaker",
+      "width": 860,
+      "height": 568,
+      "parentClasses": "media relative rp-kol-card__img",
+      "position": "absolute",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://us.snapmaker.com/cdn/shop/files/Frame_427324438.webp?v=1775822244&width=860",
+      "alt": "snapmaker",
+      "width": 860,
+      "height": 568,
+      "parentClasses": "media relative rp-kol-card__img",
+      "position": "absolute",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://us.snapmaker.com/cdn/shop/files/Frame_427324439.webp?v=1775822244&width=860",
+      "alt": "snapmaker",
+      "width": 860,
+      "height": 568,
+      "parentClasses": "media relative rp-kol-card__img",
+      "position": "absolute",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://us.snapmaker.com/cdn/shop/files/Frame_427324430.webp?v=1775822244&width=860",
+      "alt": "snapmaker",
+      "width": 285,
+      "height": 160,
+      "parentClasses": "media relative rp-kol-card__img",
+      "position": "absolute",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://us.snapmaker.com/cdn/shop/files/Frame_427324429.webp?v=1775822244&width=860",
+      "alt": "snapmaker",
+      "width": 285,
+      "height": 160,
+      "parentClasses": "media relative rp-kol-card__img",
+      "position": "absolute",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://us.snapmaker.com/cdn/shop/files/Frame_1162.webp?v=1777281034&width=240",
+      "alt": "snapmaker",
+      "width": 1312,
+      "height": 1312,
+      "parentClasses": "awards__img",
+      "position": "absolute",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://us.snapmaker.com/cdn/shop/files/Frame_1157.webp?v=1777281856&width=240",
+      "alt": "snapmaker",
+      "width": 1312,
+      "height": 1312,
+      "parentClasses": "awards__img",
+      "position": "absolute",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://us.snapmaker.com/cdn/shop/files/Frame_1155.webp?v=1777281856&width=240",
+      "alt": "snapmaker",
+      "width": 1312,
+      "height": 1312,
+      "parentClasses": "awards__img",
+      "position": "absolute",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://us.snapmaker.com/cdn/shop/files/Frame_1161.webp?v=1777281855&width=240",
+      "alt": "snapmaker",
+      "width": 1312,
+      "height": 1312,
+      "parentClasses": "awards__img",
+      "position": "absolute",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://us.snapmaker.com/cdn/shop/files/Frame_1156.webp?v=1777281856&width=240",
+      "alt": "snapmaker",
+      "width": 1312,
+      "height": 1312,
+      "parentClasses": "awards__img",
+      "position": "absolute",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://us.snapmaker.com/cdn/shop/files/Frame_1158.webp?v=1777281856&width=240",
+      "alt": "snapmaker",
+      "width": 1312,
+      "height": 1312,
+      "parentClasses": "awards__img",
+      "position": "absolute",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://us.snapmaker.com/cdn/shop/files/Frame_1160.webp?v=1777281856&width=240",
+      "alt": "snapmaker",
+      "width": 1312,
+      "height": 1312,
+      "parentClasses": "awards__img",
+      "position": "absolute",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://us.snapmaker.com/cdn/shop/files/Frame_1162.webp?v=1777281034&width=240",
+      "alt": "snapmaker",
+      "width": 1312,
+      "height": 1312,
+      "parentClasses": "awards__img",
+      "position": "absolute",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://us.snapmaker.com/cdn/shop/files/Frame_1157.webp?v=1777281856&width=240",
+      "alt": "snapmaker",
+      "width": 1312,
+      "height": 1312,
+      "parentClasses": "awards__img",
+      "position": "absolute",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://us.snapmaker.com/cdn/shop/files/Frame_1155.webp?v=1777281856&width=240",
+      "alt": "snapmaker",
+      "width": 1312,
+      "height": 1312,
+      "parentClasses": "awards__img",
+      "position": "absolute",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://us.snapmaker.com/cdn/shop/files/Frame_1161.webp?v=1777281855&width=240",
+      "alt": "snapmaker",
+      "width": 1312,
+      "height": 1312,
+      "parentClasses": "awards__img",
+      "position": "absolute",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://us.snapmaker.com/cdn/shop/files/Frame_1156.webp?v=1777281856&width=240",
+      "alt": "snapmaker",
+      "width": 1312,
+      "height": 1312,
+      "parentClasses": "awards__img",
+      "position": "absolute",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://us.snapmaker.com/cdn/shop/files/Frame_1158.webp?v=1777281856&width=240",
+      "alt": "snapmaker",
+      "width": 1312,
+      "height": 1312,
+      "parentClasses": "awards__img",
+      "position": "absolute",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://us.snapmaker.com/cdn/shop/files/Frame_1160.webp?v=1777281856&width=240",
+      "alt": "snapmaker",
+      "width": 1312,
+      "height": 1312,
+      "parentClasses": "awards__img",
+      "position": "absolute",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://us.snapmaker.com/cdn/shop/files/Frame_1162.webp?v=1777281034&width=240",
+      "alt": "snapmaker",
+      "width": 1312,
+      "height": 1312,
+      "parentClasses": "awards__img",
+      "position": "absolute",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://us.snapmaker.com/cdn/shop/files/Frame_1157.webp?v=1777281856&width=240",
+      "alt": "snapmaker",
+      "width": 1312,
+      "height": 1312,
+      "parentClasses": "awards__img",
+      "position": "absolute",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://us.snapmaker.com/cdn/shop/files/Frame_1155.webp?v=1777281856&width=240",
+      "alt": "snapmaker",
+      "width": 1312,
+      "height": 1312,
+      "parentClasses": "awards__img",
+      "position": "absolute",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://us.snapmaker.com/cdn/shop/files/Frame_1161.webp?v=1777281855&width=240",
+      "alt": "snapmaker",
+      "width": 1312,
+      "height": 1312,
+      "parentClasses": "awards__img",
+      "position": "absolute",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://us.snapmaker.com/cdn/shop/files/Frame_1156.webp?v=1777281856&width=240",
+      "alt": "snapmaker",
+      "width": 1312,
+      "height": 1312,
+      "parentClasses": "awards__img",
+      "position": "absolute",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://us.snapmaker.com/cdn/shop/files/Frame_1158.webp?v=1777281856&width=240",
+      "alt": "snapmaker",
+      "width": 1312,
+      "height": 1312,
+      "parentClasses": "awards__img",
+      "position": "absolute",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://us.snapmaker.com/cdn/shop/files/Frame_1160.webp?v=1777281856&width=240",
+      "alt": "snapmaker",
+      "width": 1312,
+      "height": 1312,
+      "parentClasses": "awards__img",
+      "position": "absolute",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://us.snapmaker.com/cdn/shop/files/Frame_1162.webp?v=1777281034&width=240",
+      "alt": "snapmaker",
+      "width": 1312,
+      "height": 1312,
+      "parentClasses": "awards__img",
+      "position": "absolute",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://us.snapmaker.com/cdn/shop/files/Frame_1157.webp?v=1777281856&width=240",
+      "alt": "snapmaker",
+      "width": 1312,
+      "height": 1312,
+      "parentClasses": "awards__img",
+      "position": "absolute",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://us.snapmaker.com/cdn/shop/files/Frame_1155.webp?v=1777281856&width=240",
+      "alt": "snapmaker",
+      "width": 1312,
+      "height": 1312,
+      "parentClasses": "awards__img",
+      "position": "absolute",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://us.snapmaker.com/cdn/shop/files/Frame_1161.webp?v=1777281855&width=240",
+      "alt": "snapmaker",
+      "width": 1312,
+      "height": 1312,
+      "parentClasses": "awards__img",
+      "position": "absolute",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://us.snapmaker.com/cdn/shop/files/Frame_1156.webp?v=1777281856&width=240",
+      "alt": "snapmaker",
+      "width": 1312,
+      "height": 1312,
+      "parentClasses": "awards__img",
+      "position": "absolute",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://us.snapmaker.com/cdn/shop/files/Frame_1158.webp?v=1777281856&width=240",
+      "alt": "snapmaker",
+      "width": 1312,
+      "height": 1312,
+      "parentClasses": "awards__img",
+      "position": "absolute",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://us.snapmaker.com/cdn/shop/files/Frame_1160.webp?v=1777281856&width=240",
+      "alt": "snapmaker",
+      "width": 1312,
+      "height": 1312,
+      "parentClasses": "awards__img",
+      "position": "absolute",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://us.snapmaker.com/cdn/shop/files/Frame_1162.webp?v=1777281034&width=240",
+      "alt": "snapmaker",
+      "width": 1312,
+      "height": 1312,
+      "parentClasses": "awards__img",
+      "position": "absolute",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://us.snapmaker.com/cdn/shop/files/Frame_1157.webp?v=1777281856&width=240",
+      "alt": "snapmaker",
+      "width": 1312,
+      "height": 1312,
+      "parentClasses": "awards__img",
+      "position": "absolute",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://us.snapmaker.com/cdn/shop/files/Frame_1155.webp?v=1777281856&width=240",
+      "alt": "snapmaker",
+      "width": 1312,
+      "height": 1312,
+      "parentClasses": "awards__img",
+      "position": "absolute",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://us.snapmaker.com/cdn/shop/files/Frame_1161.webp?v=1777281855&width=240",
+      "alt": "snapmaker",
+      "width": 1312,
+      "height": 1312,
+      "parentClasses": "awards__img",
+      "position": "absolute",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://us.snapmaker.com/cdn/shop/files/Frame_1156.webp?v=1777281856&width=240",
+      "alt": "snapmaker",
+      "width": 1312,
+      "height": 1312,
+      "parentClasses": "awards__img",
+      "position": "absolute",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://us.snapmaker.com/cdn/shop/files/Frame_1158.webp?v=1777281856&width=240",
+      "alt": "snapmaker",
+      "width": 1312,
+      "height": 1312,
+      "parentClasses": "awards__img",
+      "position": "absolute",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://us.snapmaker.com/cdn/shop/files/Frame_1160.webp?v=1777281856&width=240",
+      "alt": "snapmaker",
+      "width": 1312,
+      "height": 1312,
+      "parentClasses": "awards__img",
+      "position": "absolute",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://us.snapmaker.com/cdn/shop/files/Frame_1162.webp?v=1777281034&width=240",
+      "alt": "snapmaker",
+      "width": 1312,
+      "height": 1312,
+      "parentClasses": "awards__img",
+      "position": "absolute",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://us.snapmaker.com/cdn/shop/files/Frame_1157.webp?v=1777281856&width=240",
+      "alt": "snapmaker",
+      "width": 1312,
+      "height": 1312,
+      "parentClasses": "awards__img",
+      "position": "absolute",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://us.snapmaker.com/cdn/shop/files/Frame_1155.webp?v=1777281856&width=240",
+      "alt": "snapmaker",
+      "width": 1312,
+      "height": 1312,
+      "parentClasses": "awards__img",
+      "position": "absolute",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://us.snapmaker.com/cdn/shop/files/Frame_1161.webp?v=1777281855&width=240",
+      "alt": "snapmaker",
+      "width": 1312,
+      "height": 1312,
+      "parentClasses": "awards__img",
+      "position": "absolute",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://us.snapmaker.com/cdn/shop/files/Frame_1156.webp?v=1777281856&width=240",
+      "alt": "snapmaker",
+      "width": 1312,
+      "height": 1312,
+      "parentClasses": "awards__img",
+      "position": "absolute",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://us.snapmaker.com/cdn/shop/files/Frame_1158.webp?v=1777281856&width=240",
+      "alt": "snapmaker",
+      "width": 1312,
+      "height": 1312,
+      "parentClasses": "awards__img",
+      "position": "absolute",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://us.snapmaker.com/cdn/shop/files/Frame_1160.webp?v=1777281856&width=240",
+      "alt": "snapmaker",
+      "width": 1312,
+      "height": 1312,
+      "parentClasses": "awards__img",
+      "position": "absolute",
+      "zIndex": "auto"
+    },
+    {
+      "src": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201400%201400'%3E%3C/svg%3E",
+      "alt": "snapmaker",
+      "width": 1200,
+      "height": 1200,
+      "parentClasses": "media media--has-overlay flex absolute top-0 left-0 w-full h-full has-motion",
+      "position": "absolute",
+      "zIndex": "auto"
+    },
+    {
+      "src": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201400%201400'%3E%3C/svg%3E",
+      "alt": "snapmaker",
+      "width": 1200,
+      "height": 1200,
+      "parentClasses": "media media--has-overlay flex absolute top-0 left-0 w-full h-full has-motion",
+      "position": "absolute",
+      "zIndex": "auto"
+    },
+    {
+      "src": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201400%201400'%3E%3C/svg%3E",
+      "alt": "snapmaker",
+      "width": 1200,
+      "height": 1200,
+      "parentClasses": "media media--has-overlay flex absolute top-0 left-0 w-full h-full has-motion",
+      "position": "absolute",
+      "zIndex": "auto"
+    },
+    {
+      "src": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201400%201400'%3E%3C/svg%3E",
+      "alt": "snapmaker",
+      "width": 1200,
+      "height": 1200,
+      "parentClasses": "media media--has-overlay flex absolute top-0 left-0 w-full h-full has-motion",
+      "position": "absolute",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://us.snapmaker.com/cdn/shop/files/LOGO.svg?height=20&v=1738306041",
+      "alt": "snapmaker",
+      "width": 1510,
+      "height": 211,
+      "parentClasses": "footer-block__heading font-body font-bold text-h6 regular-text inline-flex items-center",
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://us.snapmaker.com/cdn/shop/files/klarna_payment_logo.svg?height=24&v=1689300794",
+      "alt": "snapmaker",
+      "width": 226,
+      "height": 112,
+      "parentClasses": "custom-klarna-payments-log",
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://us.snapmaker.com/cdn/shop/files/affirm_payment_logo.svg?height=24&v=1684492028",
+      "alt": "snapmaker",
+      "width": 226,
+      "height": 112,
+      "parentClasses": "custom-payments-log",
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://bat.bing.com/action/0?ti=134604719&tm=shpfy_ui&Ver=2&mid=da245e30-8b4e-4d2a-9472-420d0da6b8fb&bo=1&sid=fde59010557611f1b70af3eea589939b&vid=fde5b960557611f1a011e32c34c0e177&vids=1&msclkid=N&uach=pv%3D10.0&pi=0&lg=ru&sw=1440&sh=900&sc=24&tl=Snapmaker%20Online%20Store%20%7C%203D%20Printers,%20Laser%20Engravers,%20CNC%20Carvers%20%E2%80%93%20Snapmaker%20US&p=https%3A%2F%2Fus.snapmaker.com%2F&r=&lt=1666&evt=pageLoad&sv=2&cdb=AQAS&rn=498764",
+      "alt": "",
+      "width": 0,
+      "height": 0,
+      "parentClasses": "",
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://cdn.snapmaker.com/ai/customer-service.png",
+      "alt": "",
+      "width": 534,
+      "height": 534,
+      "parentClasses": "",
+      "position": "static",
+      "zIndex": "auto"
+    }
+  ],
+  "videos": [
+    {
+      "src": "https://us.snapmaker.com/cdn/shop/videos/c/vp/d850b4ee34c0494bb3c31716b799f684/d850b4ee34c0494bb3c31716b799f684.HD-1080p-7.2Mbps-80184980.mp4?v=0",
+      "poster": "https://us.snapmaker.com/cdn/shop/files/preview_images/d850b4ee34c0494bb3c31716b799f684.thumbnail.0000000000_small.jpg?v=1775200135",
+      "autoplay": true,
+      "loop": true,
+      "muted": true
+    },
+    {
+      "src": "https://us.snapmaker.com/cdn/shop/videos/c/vp/57c198245e40463e95ac8a412fd87a00/57c198245e40463e95ac8a412fd87a00.HD-1080p-4.8Mbps-80184979.mp4?v=0",
+      "poster": "https://us.snapmaker.com/cdn/shop/files/preview_images/57c198245e40463e95ac8a412fd87a00.thumbnail.0000000000_small.jpg?v=1775200119",
+      "autoplay": true,
+      "loop": true,
+      "muted": true
+    },
+    {
+      "src": "https://us.snapmaker.com/cdn/shop/videos/c/vp/525ea55a6fbd45f896901d1107787bfb/525ea55a6fbd45f896901d1107787bfb.SD-480p-1.5Mbps-80184982.mp4?v=0",
+      "poster": "https://us.snapmaker.com/cdn/shop/files/preview_images/525ea55a6fbd45f896901d1107787bfb.thumbnail.0000000000_small.jpg?v=1775200109",
+      "autoplay": true,
+      "loop": true,
+      "muted": true
+    },
+    {
+      "src": "https://us.snapmaker.com/cdn/shop/videos/c/vp/6cbcefe3c879472997324655d26b78d9/6cbcefe3c879472997324655d26b78d9.HD-1080p-7.2Mbps-80184981.mp4?v=0",
+      "poster": "https://us.snapmaker.com/cdn/shop/files/preview_images/6cbcefe3c879472997324655d26b78d9.thumbnail.0000000000_small.jpg?v=1775200131",
+      "autoplay": true,
+      "loop": true,
+      "muted": true
+    }
+  ],
+  "backgroundImages": [
+    {
+      "url": "linear-gradient(90deg, rgb(0, 0, 0) 0%, rgb(84, 84, 84) 100%)",
+      "tag": "div",
+      "classes": "ip-geo-tip"
+    },
+    {
+      "url": "linear-gradient(90deg, rgb(245, 177, 131) 1.19%, rgb(245, 147, 112) 52.17%, rgb(245, 222, 112) 100%)",
+      "tag": "div",
+      "classes": "text-overlay__block subheading rte"
+    },
+    {
+      "url": "linear-gradient(104deg, rgba(0, 0, 0, 0.07) 60%, rgb(255, 255, 255) 60%, rgb(255, 255, 255) 100%)",
+      "tag": "a",
+      "classes": "btn btn--secondary quick-add-view-btn"
+    },
+    {
+      "url": "linear-gradient(104deg, rgba(0, 0, 0, 0.07) 60%, rgb(255, 255, 255) 60%, rgb(255, 255, 255) 100%)",
+      "tag": "a",
+      "classes": "btn btn--secondary quick-add-view-btn"
+    },
+    {
+      "url": "linear-gradient(104deg, rgba(0, 0, 0, 0.07) 60%, rgb(255, 255, 255) 60%, rgb(255, 255, 255) 100%)",
+      "tag": "a",
+      "classes": "btn btn--secondary quick-add-view-btn"
+    },
+    {
+      "url": "linear-gradient(104deg, rgba(0, 0, 0, 0.07) 60%, rgb(255, 255, 255) 60%, rgb(255, 255, 255) 100%)",
+      "tag": "a",
+      "classes": "btn btn--secondary quick-add-view-btn"
+    },
+    {
+      "url": "linear-gradient(90deg, rgb(245, 177, 131) 1.19%, rgb(245, 147, 112) 52.17%, rgb(245, 222, 112) 100%)",
+      "tag": "div",
+      "classes": "text-overlay__block subheading rte"
+    },
+    {
+      "url": "linear-gradient(104deg, rgba(0, 0, 0, 0.07) 60%, rgb(255, 255, 255) 60%, rgb(255, 255, 255) 100%)",
+      "tag": "a",
+      "classes": "btn btn--secondary quick-add-view-btn"
+    },
+    {
+      "url": "linear-gradient(104deg, rgba(0, 0, 0, 0.07) 60%, rgb(255, 255, 255) 60%, rgb(255, 255, 255) 100%)",
+      "tag": "a",
+      "classes": "btn btn--secondary quick-add-view-btn"
+    },
+    {
+      "url": "linear-gradient(104deg, rgba(0, 0, 0, 0.07) 60%, rgb(255, 255, 255) 60%, rgb(255, 255, 255) 100%)",
+      "tag": "a",
+      "classes": "btn btn--secondary quick-add-view-btn"
+    },
+    {
+      "url": "linear-gradient(104deg, rgba(0, 0, 0, 0.07) 60%, rgb(255, 255, 255) 60%, rgb(255, 255, 255) 100%)",
+      "tag": "a",
+      "classes": "btn btn--secondary quick-add-view-btn"
+    },
+    {
+      "url": "url(\"https://us.snapmaker.com/cdn/shop/t/148/assets/ly-icon-en.svg?v=168749326791323067301775813734\")",
+      "tag": "i",
+      "classes": "ly-icon ly-flag-icon ly-flag-icon-en"
+    },
+    {
+      "url": "url(\"https://us.snapmaker.com/cdn/shop/t/148/assets/ly-icon-en.svg?v=168749326791323067301775813734\")",
+      "tag": "i",
+      "classes": "ly-icon ly-flag-icon ly-flag-icon-en"
+    }
+  ],
+  "svgCount": 86,
+  "favicons": [
+    {
+      "href": "https://us.snapmaker.com/cdn/shop/files/Profile_Image.jpg?crop=center&height=48&v=1689667701&width=48",
+      "rel": "icon",
+      "sizes": ""
+    }
+  ],
+  "title": "Snapmaker Online Store | 3D Printers, Laser Engravers, CNC Carvers – Snapmaker US",
+  "metaDescription": "Buy the Snapmaker 3-in-1 3D Printer, Enclosure, 10W Laser Module, PLA filament, Heated Bed Stickers and more. Prices listed exclude tax. Special offers. Exclusive deals. Types: Versatile 3D Printer, laser engraver, CNC carver. High quality, easy to use, all-metal build, free software."
+}
