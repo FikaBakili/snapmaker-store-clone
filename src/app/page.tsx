@@ -68,7 +68,7 @@ export default function Home() {
         <PromoHeroProduct
           title="Snapmaker U1: The Most-funded Multi-color 3D Printer"
           subtitle="New Launch"
-          videoSrc="/videos/promo_u1_video_1.mp4"
+          videoSrc="/snapmaker-store-clone/videos/promo_u1_video_1.mp4"
           ctaText="Order Now — Ships Free"
           ctaHref="#"
           products={U1_PRODUCTS}
@@ -79,7 +79,7 @@ export default function Home() {
         <PromoHeroProduct
           title="Snapmaker Artisan: The Ultimate 3-in-1 3D Printer"
           subtitle="Flagship"
-          videoSrc="/videos/promo_artisan_video_1.mp4"
+          videoSrc="/snapmaker-store-clone/videos/promo_artisan_video_1.mp4"
           ctaText="Buy Now"
           ctaHref="#"
           products={ARTISAN_PRODUCTS}
