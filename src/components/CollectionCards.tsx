@@ -8,25 +8,25 @@ const COLLECTIONS = [
   {
     title: '3D Printers',
     description: 'Engineered for Every Maker',
-    image: '/images/product_artisan_cnc.png',
+    image: '/snapmaker-store-clone/images/product_artisan_cnc.png',
     href: '#',
   },
   {
     title: 'Filaments',
     description: 'Premium Materials for Perfect Prints',
-    image: '/images/product_u1_petg.png',
+    image: '/snapmaker-store-clone/images/product_u1_petg.png',
     href: '#',
   },
   {
     title: 'Accessories',
     description: 'Essential Parts for Reliable Printing',
-    image: '/images/product_u1_hotend.png',
+    image: '/snapmaker-store-clone/images/product_u1_hotend.png',
     href: '#',
   },
   {
     title: 'Modules',
     description: "Enhance Your Machine's Capabilities",
-    image: '/images/product_artisan_extrusion.png',
+    image: '/snapmaker-store-clone/images/product_artisan_extrusion.png',
     href: '#',
   },
 ];

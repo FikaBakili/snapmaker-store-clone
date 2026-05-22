@@ -21,19 +21,19 @@ const MENU_ITEMS = [
     products: [
       {
         name: 'Snapmaker U1',
-        image: '/images/promo_u1_desktop.png',
+        image: '/snapmaker-store-clone/images/promo_u1_desktop.png',
         tag: 'New Launch',
         href: '#',
       },
       {
         name: 'Snapmaker Artisan 3-in-1',
-        image: '/images/promo_artisan_desktop.png',
+        image: '/snapmaker-store-clone/images/promo_artisan_desktop.png',
         tag: 'Flagship',
         href: '#',
       },
       {
         name: 'Snapmaker 2.0 3-in-1',
-        image: '/images/product_artisan_cnc.png',
+        image: '/snapmaker-store-clone/images/product_artisan_cnc.png',
         tag: 'Classic',
         href: '#',
       },
@@ -46,13 +46,13 @@ const MENU_ITEMS = [
     products: [
       {
         name: 'Snapmaker Artisan CNC module',
-        image: '/images/product_artisan_cnc.png',
+        image: '/snapmaker-store-clone/images/product_artisan_cnc.png',
         tag: 'Powerful CNC',
         href: '#',
       },
       {
         name: 'Rotary Module',
-        image: '/images/product_u1_hotend.png',
+        image: '/snapmaker-store-clone/images/product_u1_hotend.png',
         tag: '4-Axis carving',
         href: '#',
       },

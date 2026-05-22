@@ -4,13 +4,13 @@ import React from 'react';
 import Image from 'next/image';
 
 const AWARDS = [
-  { name: 'Red Dot Award', image: '/images/award_logo_1.webp' },
-  { name: 'iF Design Award', image: '/images/award_logo_2.webp' },
-  { name: 'CES Innovation Award', image: '/images/award_logo_3.webp' },
-  { name: '3D Printing Industry Award', image: '/images/award_logo_4.webp' },
-  { name: 'Make: Magazine Best Overall', image: '/images/award_logo_5.webp' },
-  { name: 'All3DP Best 3-in-1', image: '/images/award_logo_6.webp' },
-  { name: 'Tom\'s Hardware Editor Choice', image: '/images/award_logo_7.webp' },
+  { name: 'Red Dot Award', image: '/snapmaker-store-clone/images/award_logo_1.webp' },
+  { name: 'iF Design Award', image: '/snapmaker-store-clone/images/award_logo_2.webp' },
+  { name: 'CES Innovation Award', image: '/snapmaker-store-clone/images/award_logo_3.webp' },
+  { name: '3D Printing Industry Award', image: '/snapmaker-store-clone/images/award_logo_4.webp' },
+  { name: 'Make: Magazine Best Overall', image: '/snapmaker-store-clone/images/award_logo_5.webp' },
+  { name: 'All3DP Best 3-in-1', image: '/snapmaker-store-clone/images/award_logo_6.webp' },
+  { name: 'Tom\'s Hardware Editor Choice', image: '/snapmaker-store-clone/images/award_logo_7.webp' },
 ];
 
 export default function AwardsSlider() {

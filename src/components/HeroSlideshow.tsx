@@ -8,7 +8,7 @@ const SLIDES = [
   {
     title: 'Snapmaker U1 3D Printer',
     subtitle: 'The Most-funded Multi-color 3D Printer. High-speed precision.',
-    image: '/images/hero_slide_1.webp',
+    image: '/snapmaker-store-clone/images/hero_slide_1.webp',
     buttonText: 'Order Now — Ships Free',
     href: '#',
     align: 'left',
@@ -16,7 +16,7 @@ const SLIDES = [
   {
     title: 'New Filaments. For What’s Next.',
     subtitle: 'Premium Materials for Perfect Prints. RFID enabled for smart printing.',
-    image: '/images/hero_slide_2.webp',
+    image: '/snapmaker-store-clone/images/hero_slide_2.webp',
     buttonText: 'Buy Now',
     href: '#',
     align: 'center',
@@ -24,7 +24,7 @@ const SLIDES = [
   {
     title: 'Snapmaker Artisan 3-in-1',
     subtitle: 'The Ultimate 3-in-1 3D Printer with Dual Extrusion, CNC, and Laser.',
-    image: '/images/promo_artisan_desktop.png',
+    image: '/snapmaker-store-clone/images/promo_artisan_desktop.png',
     buttonText: 'Buy Now',
     href: '#',
     align: 'right',
@@ -32,7 +32,7 @@ const SLIDES = [
   {
     title: 'Snapmaker Filament Bulk Sale',
     subtitle: 'Buy more, save more. Stock up on PLA, PETG, and ABS materials.',
-    image: '/images/promo_u1_desktop.png',
+    image: '/snapmaker-store-clone/images/promo_u1_desktop.png',
     buttonText: 'Shop Now',
     href: '#',
     align: 'left',

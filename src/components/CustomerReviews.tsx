@@ -12,7 +12,7 @@ const REVIEWS = [
     text: 'The print quality is absolutely exceptional. Being able to switch to laser engraving and CNC carving in less than a minute makes it a complete game-changer.',
     author: 'James H.',
     verified: true,
-    image: '/images/review_kol_1.webp',
+    image: '/snapmaker-store-clone/images/review_kol_1.webp',
   },
   {
     id: 2,
@@ -21,7 +21,7 @@ const REVIEWS = [
     text: 'Snapmaker has truly redefined what a workshop tool can do. The U1 behaves beautifully under high speeds, and the multicolor print is stellar.',
     author: 'Sarah M.',
     verified: true,
-    image: '/images/review_kol_2.webp',
+    image: '/snapmaker-store-clone/images/review_kol_2.webp',
   },
   {
     id: 3,
@@ -30,7 +30,7 @@ const REVIEWS = [
     text: 'As an architect, I need rapid prototyping. Having 3D printing, laser, and CNC in one robust unit saves massive space and overhead costs.',
     author: 'Robert L.',
     verified: true,
-    image: '/images/review_kol_3.webp',
+    image: '/snapmaker-store-clone/images/review_kol_3.webp',
   },
   {
     id: 4,
@@ -39,7 +39,7 @@ const REVIEWS = [
     text: 'Setup was simple, manuals are super clear, and Luban software integrates perfectly. We are printing custom enclosures non-stop now.',
     author: 'Emily K.',
     verified: true,
-    image: '/images/review_kol_4.webp',
+    image: '/snapmaker-store-clone/images/review_kol_4.webp',
   },
   {
     id: 5,
@@ -48,7 +48,7 @@ const REVIEWS = [
     text: 'Built like a tank. Solid linear rails, linear motors on U1, zero wobble. The accuracy is stunning even on fine 0.05mm layer heights.',
     author: 'Michael T.',
     verified: true,
-    image: '/images/review_kol_1.webp',
+    image: '/snapmaker-store-clone/images/review_kol_1.webp',
   },
 ];
 
